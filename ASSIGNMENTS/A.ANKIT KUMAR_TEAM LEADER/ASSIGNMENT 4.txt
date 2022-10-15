@@ -1,9 +1,9 @@
 ASSIGNMENT 04
 TOPIC: NEWS TRACKER APPLICATION
-TEAM MEMBERS: D.BUVAN KISHORE
-A.ABUZAR
-S.SUNEEL
-P.RAHUL
+TEAM MEMBERS: A.ANKIT KUMAR JHA
+S.BALAJI
+R.KEERTHIVASAN
+G.LOKESH
 1.create ten tables in IBM2 db2 and insert data by using insert query:
 ======================================================================
 1.db2 create table professional.employee(id int, name 
