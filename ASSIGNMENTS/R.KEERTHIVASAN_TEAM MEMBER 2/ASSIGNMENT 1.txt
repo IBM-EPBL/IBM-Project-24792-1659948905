@@ -1,0 +1,1259 @@
+﻿chess - Notepad		x
+File	Edit	View	€93
+
+<th>8</th>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+</tr>
+<th>7</th>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+</tr>
+<th>6</th>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+</tr>
+	100%	Windows (CRLF)	UTE-8
+<th>6</th>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td> </tr>
+<th>5</th>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+</tr>
+
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+</tr>
+<td class="light"></td>
+<td class="dark"></td>
+</tr>
+<th>3</th>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+</tr>
+<th>2</th>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+</tr>
+<th>l</th>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+	100%	Windows (CRLF)	UTE-8
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td
+</tr>
+<th>2</th>
+<td class="light"></td>
+<td class="dark"></td>
+<td
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td> </tr>
+<th>l</th>
+
+Ln 119, Col 8
+870FENG20.•53
+Partly cloudyIN21-09-2022
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td class="light"></td>
+<td class="dark"></td>
+<td 
+<td class="dark"></td>
+<td 
+</tr>
+</table>
+</html>
+
+
+chess.html
+
+c
+Pi G mail
+O
+YouTube
+File I
+Maps
+Swayam Central
+My Courses
+G
+
+Online Courses, PG..	System and Environ...
+8
+7
+6
+5
+4
+3
+2
+1
+20:59
+	vibgyor - Notepad	
+File	Edit	View	€93
+< ! DOCTYPE html >
+(html >
+<svg width="8ee"
+<circle cx="4ee" 	r=" 400" stroke="none" stroke-width="2" fill="red"	
+r defines the radius of the circle -->
+<circle  cy="49"  stroke="none" stroke-width=' '2 " fill=''yellow" / >
+<circle  cy="450" r-'- '250" stroke="none" stroke-width= "2 " fill=''green" / >
+<circle  cy="450" r--"299" stroke="none" stroke-width=' '2 " fill="blue" / >
+<circle  cy="450" r--"150" stroke="none" stroke-width=' '2 " fill=''indigo" / >
+<circle  cy="49" r-'- '100" stroke="none" stroke-width= "2 " fill=''violet" / >
+</svg>
+
+</html>
+Ln 6, col 32	100%	Windows (CRLF)	UTE-8
+21:04
+		O
+chess.html
+
+
+Pi Gmail 
+Maps 
+O File I
+YouTube 
+Swayam Central
+My Courses
+G
+Online Courses, PG...
+
+System and Environ...
+
+21:04
+
+	870F	ENG
+	Partly cloudy	IN	21-09-2022
+File Edit Selection View 	Run Terminal Help	p Eduminatti	6 x
+	Get Started	home.html 	o
+v 
+File 	Go 
+	RUN AND DE... 	No Corv {9
+v VARIABLES
+v WATCH
+	Open home.html: ho...	RUNNING
+> LOADED SCRIPTS v BREAKPOINTS
+Caught Exceptions
+Uncaught Exceptions
+BROWSER BREAKPOINTS
+	O	x	o
+home.html > 	html > 	head > title
+1 < ! doctype html
+2 <html
+3 <head>
+4 <meta charset="UTF-8">
+5 <meta name="viewport"
+6 content= " width—device-width , user-scalable-no, initial-scale=l.e, maximum- scale=l .0, minimum-sca 7 <meta http-equiv="X-LJA-Compatib1e" content= ' 'ie=edge">
+8 <titlefric Tac Toe</title>
+9 < link rel=" stylesheet" href="style.css">
+10 </head>
+11
+12 <section>
+13 <hl class=" game--tit1e">Tic Tac Toe
+14 <div class="game--container">
+15 <div data-cell-index= "0" class="cell
+16	<div data-cell-index="l" class="cell
+17 <div data -cell -index= "2" class="cell"></div>
+18 (div data -cell 	" class="cell
+19 <div data-cell-index="4" class="cell"></div>
+20 (div data -cell -index= "5 " class="cell
+21 <div data-cell-index="6" class="cell"></div>
+22 <div data-cell-index= "7" class="cell"></div>
+23 (div data -cell -index= "8 " class="cell
+24 </div>
+25 <h2 class="game--status"></h2>
+26 <button 	Game</button>
+27 < / section>
+28
+g,	1 12 selected)	paces:
+29
+Go 
+	RUN AND DE... 	No Corv {9
+VARIABLES
+v WATCH
+	Open home.html: ho...	RUNNING
+> LOADED SCRIPTS v BREAKPOINTS
+Caught Exceptions
+Uncaught Exceptions
+BROWSER BREAKPOINTS
+	O	X
+home.html > 	html > 	head > title 8	<utIQTic Tac
+9 < link 	href="style.css
+10 </head>
+11
+12 <section>
+13 <hl class="game--tit1e">Tic Tac Toe</hl>
+14 <div class="game--container">
+15 (div data-cell-index= "8" class="cell"></div>
+16 (div data-cell-index="l" class="cell''></div> 17	(div data -cell -index= "2" class=" cell"></div> 18	<div data-cell -index= "3" class="cell"></div> 19	<div data-cell	class=" cell'
+20 <div data -cell	class="cell"></div>
+21 (div data -cell	class="cell'
+22 (div data-cell -index= "7 " class="cell"></div>
+23 <div data-cell-index="8" class=" cell'
+24 </div>
+25 <h2 class="game--status"></h2>
+26 <button 	Game</button>
+27 < / section>
+28
+29	<script src="script.js"></script>
+30 < /bodY>
+31 </html>
+OneDrive
+Screenshot saved
+The screenshot was added to your OneDrive.
+	8, col 	seleclea) spaces: 4 u ' r-ö	H iViL
+
+> 
+870F	ENG	21:13
+2
+Partly cloudy	IN	21-09-2022
+File 
+O Cl :.css
+v 
+	1	const statusDisp1ay = document . querySe1ector( ' . game--status ' ) ;
+	JS script.js	2
+3 let gameActive = true;
+# style.css
+4 let currentP1ayer =
+5 let gameState =
+6
+7 const winningMessage =	'Player ${currentP1ayer} has won!'
+8 const drawMessage =	"Game ended in a draw! &
+9 const currentP1ayerTurn = ( ) 	'It's 	turn* ,
+10
+11	statusDisp1ay . innerHTML = currentP1ayerTurn ( ) ; 12
+13 const winningConditions =
+14 [e, 1, 2],
+15 [3, 4, 5],
+16 7, 8],
+	17	[e, 3, 6],
+18	[1, 4, 7], 19	[2, 5, 8], 20	4, 8], 21	[2, 4, 6]
+22
+23
+24 function handleCe11P1ayed(c1ickedCe11, clickedCe111ndex) {
+25 gameState[c1ickedCe111ndex] = currentP1ayer;
+26 clickedCe11.innerHTML = currentP1ayer;
+27
+28
+	29	function handleP1ayerChange()
+
+File Edit Selection View Go Run Terminal Help	p Eduminatti	6 x
+EXPLORER	Get Started	home.html	o
+v EDUMINATTI	JS script.js > .
+home.html
+
+
+
+
+04
+65
+
+JS script.js
+66
+function handleCe11C1ick(c1ickedCe11Event)
+# style.css
+67
+const clickedCe11 = clickedCe11Event.target;
+
+68
+69
+const clickedCe111ndex - parseInt(c1ickedCe11. getAttribute( ' data-cell-index ' ) ) ,
+
+70
+	if (gameState[c1ickedCe111ndex]	I 	! gameActive) {
+
+
+71
+72
+73
+return;
+
+
+74
+handleCe11P1ayed(c1ickedCe11, clickedCe111ndex) •
+
+
+75
+76
+77
+78
+79
+8e
+81
+82
+handleResu1tVa1idation( )
+function handleRestartGame() { gameActive = true; currentP1ayer = gameState = statusDisp1ay. innerHTML = currentP1ayerTurn()
+
+
+
+83 84
+85
+86
+document . querySe1ectorA11( ' . cell ' ) . forEach(ce11
+cell. innerHTML = I'"
+
+
+87
+document . querySe1ectorA11( ' . cell ) .forEach(ce11
+cell .addEventListener( ' click ' ,
+handleCe11C1ick));
+
+88
+document . querySe1ector( ' . game- -restart ' ) .addEventListener( ' click '	handleRestartGame ) ;
+
+> OUTLINE
+> TIMELINE paces:	ava npt
+870F	ENG	21:14 2
+Partly cloudy	IN	21-09-2022
+File Edit Selection View Go Run Terminal Help	p Eduminatti	6 x
+EXPLORER	Get Started	home.html	o •.css X
+v EDUMINATTI	# style.css > 	.game--restart home.html
+
+18 width: 306px;
+19 margin: lepx auto;
+script.js
+20 background - color :	#11213a;
+style.css
+21 color: O #04c0b2;
+22
+23
+24 . cell {
+25 font-family: "Permanent Marker" , cursive;
+26 width: leepx;
+27 height: leepx;
+28 box-shadow: 2px 2px 2px 2px	#ecd7ba;
+29 border: 2px solid 	#ecd7ba;
+30 cursor: pointer;
+31	line-height: leepx; 32	font-size: 68px;
+33
+34
+	35	. game- -status {
+	36	font-size: 5epx;
+37 color:	#d7a62f;
+38 margin: 2epx auto;
+39
+40
+	41	. game- -restart {
+42 background - color :	#f7e4ac;	OneDrive
+43 width: 2eepx;
+44 height: 5epx;	Screenshot saved 45 font-size: 25px;	The screenshot to 46 color: O #5586e2;	OneDrive.
+
+was added your
+> OUTLINE
+> TIMELINE
+870F	ENG	21:14 2
+Partly cloudy	IN	21-09-2022
+, co' z spaces: 4	C NLF
+
+
+	timetable - Notepad	x
+File	Edit	View	€93
+e Tic Tac Toe	x
+
+
+html>
+(html >
+ align="center">
+< ! --<caption>Timetab1e</caption>-->
+<td align="center" width="lee"><br>
+<b>Day/Period</b></br>
+</td>
+<td align="center" width="lee">
+
+</td>
+<td align="center" width="lee"> :ee-12 :
+</td>
+
+	100%	Windows (CRLF)	UTE-8
+</td>
+<td 
+align="center"
+
+</td>
+<td align="center" height="50" width="lee">
+: ee-12 :
+</td>
+<td align="center" width="lee">
+
+</td>
+<td align="center" height="50" width="lee">
+
+</td>
+<td align="center" width="lee">
+
+</td>
+<td align="center" height="50" width="lee">
+
+</td>
+</tr>
+<td align="center" height='
+<b>Monday</b></td>
+<td align="center"
+<td align="center"
+<td align="center"
+<td rowspan="6" align="center" height=" 50" >
+<h2>L<br>U<br>N<br>C<br>H</h2>
+
+The screenshot was added to your OneDrive.
+Ln 123, Col 1
+ 88 F	ENG 21:16 Partly cloudyIN 21-09-2022
+	timetable - Notepad	x
+File	Edit	View	€93
+width="lee">
+
+</td>
+
+</tr>
+<td align="center" height="5e >
+<b>Monday</b></td>
+<td align="center"
+<td align="center"
+<td align="center"
+<td rowspan="6" align="center"
+<h2>L<br>U<br>N<br>C<br>H</h2>
+</td>
+<td colspan="3" align="center" height=" 50" >LAB</td>
+<td align="center"
+</tr>
+<td align="center"
+<b>Tuesday</b>
+</td>
+<td colspan="3" align="center" height=" 50" >LAB
+</td>
+<td align="center" height="
+<td align="center" height=" 50"
+<td align="center" height=" 50" >Mat</td>
+<td align="center" height='
+</tr>
+<td align="center"
+<b>Tuesday</b>
+</td>
+<td colspan="3" align="center" height=" 50" >LAB
+</td>
+<td align="center" height=" 
+<td align="center"
+height= " 50" >Mat</td>
+<td align="center"
+</tr>
+height='							
+<td align="center"
+height=''59" >
+<td align="center" height=" 50"
+<b>Wednesday</b>
+<td align="center"
+<td align="center"
+<td align="center"
+<td align="center"
+<td colspan="3" align="center"
+
+</td>
+<td align="center" height='
+<b>Thursday</b>
+</td>
+<td align="center"
+<td align="center"
+<td align="center"
+<td colspan="3" align="center" height=" 50" >LAB
+</td>
+<td align="center" 
+</tr>
+<td align="center" height='
+<b>Thursday</b>
+</td>
+<td align="center"
+<td align="center"
+<td align="center"
+<td colspan="3" align="center" height=" 50" >LAB
+</td>
+<td align="center"
+</tr>
+<td align="center"
+<b>Friday</b>
+</td>
+<td colspan="3" align="center" height=" 50" >LAB </td>
+
+<td align="center"
+height=" 50" >Mat</td>
+
+<td align="center"
+height=" 50"					
+
+<td align="center"
+height="						
+</tr>
+<td align="center"
+height=" 50"					
+
+<td align="center"
+height='					
+<b>Saturday</b>
+</td>
+<td align="center"
+<td align="center"
+<td align="center"
+<td colspan="3" align="center" height=" 	>SEMINAR
+<td colspan="3" align="center" height=" 50" >LAB
+</td>
+<td align="center"
+</tr>
+<td align="center"
+<b>Friday</b>
+</td>
+<td colspan="3" align="center" height=" 50" >LAB
+<td align="center"
+<td align="center"
+<td align="center"
+<td align="center"
+</tr>
+<td align="center"
+height=" 50" >Mat</td> height=" 50" >Che</td> height="						height=" 50"					
+height=''58" >
+<b>Saturday</b>
+</td>
+<td align="center"
+<td align="center"
+<td align="center"
+<td colspan="3" align="center" height=" 	>SEMINAR
+</td>
+<td align="center"
+</tr>
+</table>
+</html>
+
+The screenshot was added to your OneDrive.
+Ln 123, Col 1
+ 88 F	ENG 21:16 Partly cloudyIN 21-09-2022
+	Edit Selection View Go Run Terminal Help	p Eduminatti	6 x
+	EXPLORER	Get Started	O home.html	script.js	style.css •	{l launch.json
+	EDUMINATTI	> 	html 
+> .vscode
+timetable.html
+
+
+Pi Gmail 
+O File I C:/Users/G%20RENUKA%20DEVl/OneDrive/Documents/timetable.html
+YouTube 	Maps 	Download WhatsApp	TutorOps Dashboard 	Online Courses
+Swayam Central
+My Courses
+G
+Online Courses, PG
+
+System and Environ...
+TIME TABLE
+Day/Period
+1
+
+11
+
+111
+
+12:00-12:40
+12.•40-1:30
+
+
+Vil
+
+
+Monday
+Eng
+Mat
+Che
+
+LAB
+Phy
+Tuesday
+LAB
+Eng
+Che
+Mat
+SPORTS
+Wednesday
+Mat
+phy
+Eng
+Che
+LIBRARY
+Thursday
+Phy
+Eng
+Che
+LAB
+Mat
+Friday
+LAB
+Mat
+Che
+Eng
+Phy
+Saturday
+Eng
+Che
+Mat
+
+
+SEMINAR
+OneDrive	x
+Screenshot saved
+The screenshot was added to your
+OneDrive.
+
+
+	File 	
+JS
+	v 	home.html 	> 	head
+1
+	O home.html	2
+3 < ! DOCTYPE html
+script.js
+4 < html
+style.css
+5 < head>
+6 <meta charset="UTF-8">
+7 <meta http-equiv="X-UA-Compatib1e" content="IE=edge">
+8 <meta name="viewport" content="width=device-width,
+9
+	10	< link rel=" stylesheet" href="https : //unicons . iconscout . 	. css " >
+11
+	12	< link rel=" stylesheet" href=" style.
+13
+14
+	15	</head>
+16
+17
+18 <div class="container">
+19 <div
+20 <div class="form login " >
+21 < span 	>Login</span>
+22
+23 < form action="#">
+24 <div class="input-field">
+25 < input type="text" placeholder="Enter your email" required>
+26 < i class="uil uil-envelope icon"></i>
+27 </div>
+28 <div class="input-field">
+29 < input	class="password"	your password" required
+
+> OUTLINE
+> TIMELINE
+@ O 0 	Launch Chrome against localhost (Eduminatti)	Ln 15, 	UTE-8 CRLF HTML
+	• 88 0 F	ENG	2
+	Partly cloudy	IN	21-09-2022
+C01 8 
+21:24
+
+File Edit Selection View Go Run Terminal Help
+	EXPLORER	Get Started
+v EDUMINATTI	home.html 
+> .vscode
+34
+O home.html
+35 script.js	36 style.css	37
+38
+39
+40
+41
+42 43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+> OUTLINE
+61
+> TIMELINE	62
+	p Eduminatti	6 x
+home.html	JS script.js	# style.css •	launch.json
+> 	head
+<div class="checkbox-text">
+<div class="checkbox-content">
+<input type=" checkbox" id=" logCheck" >
+	< label for="10gCheck" 	" >Remember
+</div>
+> Forgot password?</a>
+</div>
+(div class="input-field button" >
+< input type="button" value="Login">
+< [div >
+< /form>
+<div class="login-signup">
+	<span 	>Not a member?
+<a href="#" class="text signup-link">Signup Now</a>
+</span>
+</div>
+</div>
+Registration Form - >
+<div class="form signup" >
+< span class="title" >Registration</span>
+< form action="#">
+<div class="input-field">
+< input 	placeholder="Enter your name" required class="uil
+
+@ O 0 	Launch Chrome against localhost (Eduminatti)	Col 8
+21:24
+
+File Edit Selection View Go Run Terminal Help	p Eduminatti	6 x
+EXPLORER	Get Started	home.html 	script.js	style.css •	launch.json
+v EDUMINATTI	> .
+> .vscode
+	•	JS 	# 
+
+home.html 
+> 
+head
+
+caav caass=••
+O home.html
+61
+62
+
+<input type="text" placeholder=''Enter your n ame" required
+< i class="uil uil-user"></i>
+
+script.js
+63
+
+</div>
+
+style.css
+64 65
+66
+67
+68
+
+<div class="input-field">
+<input type="text" placeholder="Enter your email " required>
+< i class="uil uil-envelope icon"></i> </div>
+<div class="input-field">
+
+
+69
+70
+71
+72
+
+< input type="password" class="password" placeholder="Create a password"
+< i class="uil uil-lock icon"></i>
+< [div >
+<div class="input-field">
+required>
+
+73 74 75
+76
+77
+78
+79
+80
+81
+82
+83 84 85
+86
+87
+
+< input type="password" class="password" placeholder="Confirm a password"
+<i class="uil uil-lock icon"></i>
+< i class="uil uil-eye-slash showHidePw"></i>
+< [div >
+<div class="checkbox-text">
+<div class="checkbox-content">
+<input type=" checkbox" id="termCon">
+required
+	< label 	class="text">l accepted all terms and conditions</label>
+</div>
+</div>
+(div class="input-field button" >
+< input type="button" value="Signup" >
+< [div >
+
+88
+
+< /form>
+Col 8
+"
+88
+89
+90
+91 >A1ready 
+92 <a 	class="text 
+93
+94
+95
+96
+97
+98 99 lee lei le2
+103
+	> 	
+p Eduminatti
+
+
+
+
+
+6 x
+style.css	launch.json
+button " > value="Signup" >
+
+
+login-link">Login Now</a>
+
+
+TIMELINE
+	@ O 0 	Launch Chrome against localhost (Eduminatti)	Ln 15, Col 8	Spaces: 4 UTE-8 CRLF HTML
+
+	JS 	# 	{l 
+JS script.js 
+
+1
+const container = document . querySe1ector ( " . container" ) ,
+
+home.html
+2
+pwShowHide = document. querySe1ectorA11 ( " . showHidePw") ,
+
+JS script.js
+3
+pwFie1ds = document . querySe1ectorA11 ( " . password" ) ,
+
+
+4
+signUp — document . querySe1ector( " . signup -link" ) ,
+
+style.css
+5
+6
+login = document . querySe1ector ( " . login-link" ) ;
+
+
+7
+pwShowHide. forEach(eyeIcon =>{
+
+
+8
+eyelcon . addEventListener("click",
+
+
+9
+10
+11
+12 13
+pwFie1ds.forEach(pwFie1d =>{
+
+if(pwFie1d.type "password") { pwFie1d. type = "text" ;
+pwShowHide.forEach(icon
+
+14 15
+16
+17
+18
+19
+icon . classList. replace( "uil-eye- slash " ,
+}else{ pwFie1d.type = "password";
+pwShowHide.forEach(icon =>{
+"uil -eye" ) ;
+
+20
+21
+22
+23 24
+	icon . classList.	"uil-eye-slash");
+
+25
+26
+OneDrive
+
+27
+	signUp. addEventListener ( " click" ,	Screenshot saved
+
+28
+	container. classList. add( " active" ) ;	The screenshot was added to your
+
+29
+OneDrive.
+	Ln 21, co'	paces:	U lr-ö CKLI- 	java5cnpt
+
+> OUTLINE
+> TIMELINE
+@ O 0 	Launch Chrome against localhost (Eduminatti)
+• 88 0 F	ENG	21'.25
+2
+Partly cloudy	IN	21-09-2022
+File Edit Selection View Go Run Terminal Help	p Eduminatti	6 x
+EXPLORER	Get Started	home.html	JS script.js	style.css •	launch.json v EDUMINATTI	# style.css > .
+> .vscode
+
+
+
+23
+border-radius: lepx;
+
+
+home.html
+24
+	box-shadow: e 5px 18px	rgba (e,
+e,
+e,
+script.js
+25
+overflow: hidden;
+
+
+style.css
+26
+27
+28
+29 30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+4e
+41
+margin: e 2epx;
+. container . forms{
+display: flex; align-items: center; height: 44epx; width: 2ee%; transition: height e.2s ease;
+. container . form{ width: 50%; padding: 38px; background - color :	#fff ;
+
+
+
+42
+43
+44
+transition: margin-left 0.18s ease;
+
+
+45
+. container.active . login{
+
+
+46
+margin-left: -50%
+
+
+47
+opacity: e;
+
+
+48
+49
+transition: margin-left e. 18s ease,
+opacity e.15s ease;
+
+51
+. container . signup{
+
+	n 1, Col	paces:	UTF-8 CRL csS
+
+> OUTLINE
+> TIMELINE
+@ O 0 	Launch Chrome against localhost (Eduminatti)
+• 88 0 F	ENG	21'.25
+2
+Partly cloudy	IN	21-09-2022
+File Edit Selection View Go Run Terminal Help	p Eduminatti	6 x
+EXPLORER	Get Started	home.html	JS script.js	style.css •	launch.json v EDUMINATTI	# style.css > .
+> .vscode
+46	margin-left: -50% home.html	47	opacity: e; script.js	48	transition: margin-left 0.18s ease, opacity e.15s ease;
+49
+style.css
+50
+51 . container . signup{
+52 opacity: e;
+53 transition: opacity e .09s ease;
+54
+55 . container. active . signup{
+56 opacity: 1;
+57 transition: opacity e.2s ease;
+58
+59
+60 . container. active . forms{
+61 height: 6eepx;
+62
+63 . container . form . title{
+64 position: relative;
+	65	font-size: 27px;
+	66	font-weight: 6ee;
+67
+68
+	69	. form . title: : before{
+OneDrive 70 content :
+	71	position: absolute;
+Screenshot saved
+	72	left: e;
+The screenshot was added to your
+73 bottom: e;
+OneDrive.
+74 height: 3px;
+
+> OUTLINE
+> TIMELINE
+@ O 0 	Launch Chrome against localhost (Eduminatti)
+• 88 0 F	ENG	21'.25
+2
+Partly cloudy	IN	21-09-2022
+	spaces:	C KLI-
+
+
+93
+outline: none;
+home.html
+94
+font-size: 16px;
+script.js
+95
+	border-bottom: 2px solid 	#ccc;
+style.css
+96
+border-top: 2px solid transparent;
+
+97
+98
+99
+transition: all e.2s ease;
+
+lee
+. input-field input: is(:focus, : valid) {
+
+lei 102 le3
+border-bottom-color: O #497ef4;
+
+le4
+. input-field i{
+
+les
+position: absolute;
+
+les
+top: 50%;
+
+le7
+transform: translateY( -5e%) •
+
+le8
+color: O#999 ;
+
+le9
+font-size: 23px;
+
+110
+111
+112
+transition: all e.2s ease;
+
+113
+. input-field input:is(:focus, : valid)
+
+114
+115
+116
+	color: 	#4e7ef4;
+
+117
+. input -field i. icon{
+
+118
+119
+left: e;
+
+120
+. input -field i . showHidePw{
+
+121
+right: e;
+	n 1, Col	paces:	UTF-8 CRL csS
+
+File Edit Selection	View Go Run Terminal Help	p Eduminatti	6 x
+EXPLORER	Get Started	home.html 	script.js	style.css •	launch.json v EDUMINATTI	# style.css 
+> .vscode
+	O 	• JS 
+>
+	. input-neaa input: 	: tocus, : valid)
+114 color : O #4e70f4; home.html
+115 script.js	116 style.css	117	. input-field i. icon{
+	118	left: e;
+119
+	120	. input-field i. showHidePw{
+121 right: e;
+122 cursor: pointer;
+123 padding: lepx;
+124
+125
+126 . form . checkbox-text{
+127 display: flex;
+128 align-items: center;
+	129	justify-content: space-between;
+	130	margin-top: 2epx;
+131
+132
+	133	. checkbox-text . checkbox- content{
+	134	display: flex;
+	135	align-items: center;
+136
+137 OneDrive
+138 . checkbox- content input{
+139 margin: e 8px -2px 4px;	Screenshot saved
+140 accent -color : O #4e70f4;	The screenshot was added to your
+141
+
+> OUTLINE
+> TIMELINE
+@ O 0 	Launch Chrome against localhost (Eduminatti)
+• 88 0 F	ENG	21'.25
+2
+Partly cloudy	IN	21-09-2022
+OneDrive.
+	spaces:	C KLI-
+JS
+>
+
+136
+
+home.html
+137
+
+script.js
+138
+. checkbox- content input{
+style.css
+139
+margin: e 8px -2px 4px;
+
+140
+141
+142
+accent -color : O #4e70f4;
+
+143
+. form . text{
+
+144
+	color :	#333;
+
+145
+146
+147
+font-size: 14px;
+
+148
+. form a.text{
+
+149
+color: O #4070f4;
+
+Ise
+151
+text -decoration : none;
+
+152
+. form a: hover{
+
+153 154
+155
+text-decoration: underline;
+
+156
+. form . button{
+
+157
+158
+159
+margin -top : 35px;
+
+16e
+. form . button input{
+
+161
+border: none;
+
+162
+	color :	#fff ;
+
+163
+font-size: 17px;
+
+164
+font-weight: 500 •
+	n 1, Col	paces:	UTF-8 CRL csS
+
+
+File 
+
+• 88 0 F	ENG	21'.26
+Partly cloudy	IN	21-09-2022
