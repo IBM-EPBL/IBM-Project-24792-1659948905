@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: flask-node-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: flasknode
+  template:
+    metadata:
+      labels:
+        app: flasknode
+    spec:
+      containers:
+        - name: flasknode
+          image: uk.icr.io/newsapp/newstrackerapp@sha256:98edd4a9645983ea56567934ef65866724fdd17227f1f0f5d079836c35e7f72a
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 5000
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: flasknode-svc
+spec:
+  type: NodePort
+  selector:
+    app: flasknode
+  ports:
+    - name: flasknode
+      protocol: TCP
+      port: 5000
+      targetPort: 5000
+      nodePort: 30007
