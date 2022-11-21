@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  webserver:
+    image: nginx:latest
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+    ports:
+      - "80:80"
+  app:
+    build:
+      context: .
+    depends_on:
+      - webserver
